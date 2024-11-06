@@ -1,8 +1,5 @@
 # webmin-03-proj
 
-Here's a polished Markdown introduction for you:
-
-```markdown
 # Jason A. Ballard
 
 **Enterprise Data and AI Officer | Data Literacy Advocate | Educator in Professional Military Education**
@@ -17,7 +14,7 @@ I invite you to explore my [GitHub repository](https://github.com/JBtallgrass), 
 - **Data Literacy & Education**: Equipping leaders and students with data literacy skills critical for today's complex, data-rich environments.
 
 Feel free to connect, collaborate, or reach out if our interests align. Let’s make data-driven transformation a reality together.
-```
+
 
 # Project Title
 
@@ -51,9 +48,10 @@ List any prerequisites, such as:
 
 ### Installation
 Provide step-by-step instructions to install the project:
+
 ```bash
-# Example installation commands
-git clone https://github.com/username/repository.git
-cd repository
-# install dependencies
-npm install
+# Installation commands
+git clone https://github.com/Jbtallgrass/webmin-03-proj.git
+cd webmin-03-proj
+```
+
