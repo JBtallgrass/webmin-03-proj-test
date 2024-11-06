@@ -49,9 +49,36 @@ List any prerequisites, such as:
 ### Installation
 Provide step-by-step instructions to install the project:
 
-```bash
-# Installation commands
-git clone https://github.com/Jbtallgrass/webmin-03-proj.git
-cd webmin-03-proj
+### Usage
+Instructions on how to use the project, including example commands or code snippets.
+
+
+## Configuration
+Outline optional configurations, environment variables, or settings to customize the project.
+
+## Contributing
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for detailed guidelines.
+
+### How to Contribute
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m "Add feature"`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+## Code of Conduct
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this standard.
+
+## License
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more information.
+
+## Acknowledgments
+Recognize individuals, organizations, or resources that contributed to the project.
+- **Contributor/Resource 1**: Brief explanation of their contribution or role.
+- **Contributor/Resource 2**: Additional acknowledgments as needed.
 ```
 
+### Key Points for Inclusivity:
+- **Contributing Guide**: Encourage contributions by linking to a `CONTRIBUTING.md` file, making it easy for new users to get involved.
+- **Code of Conduct**: A link to a Code of Conduct emphasizes respectful, inclusive interactions.
+- **Acknowledgments**: Recognize contributions from diverse sources.
